@@ -12,7 +12,7 @@ public class leapyr
         }
         else
         {
-            System.out.println(year+" 2is not a leap year");
+            System.out.println(year+" is not a leap year");
         }
         yr.close();//to avoid resource leak
 
